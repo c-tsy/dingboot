@@ -1,12 +1,23 @@
 {
   "name": "@ctsy/dingboot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist/index.js",
     "dist/index.d.ts",
     "README.md"
+  ],
+  "keywords": [
+    "ding",
+    "dingtalk",
+    "钉钉",
+    "钉钉机器人",
+    "dingding",
+    "dingding",
+    "机器人",
+    "自定义机器人",
+    "钉钉自定义机器人"
   ],
   "repository": "https://github.com/c-tsy/dingboot",
   "author": "CastleMY <490523604@qq.com>",
